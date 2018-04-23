@@ -32,10 +32,14 @@ Data plane, which manages the data used by a service.
 you can assign the Owner role to a user, giving that user full administrative privileges to those resources in the group but not to other resources in the subscription. Other roles include Reader (you can read anything except secrets) and Contributor (you can do most anything except add or revoke access).
 
 #### 5. Why would you want to create a custom role for role-based access control?
-.
+
 
 #### 6. Consider the Azure portal. What is the dashboard? What is the hub? What is a blade?
+The dashboard is the area with the tiles which includes All Resources, Service Health, Marketplace, Subscriptions, and Help + Support.
 
+Hub shows you a core set of options such as Resource Groups, All Resources, and Recent.
+
+Blade shows the list of resources valid for that category, and you can then select which one you want to create.
 
 #### 7. Access the conceptual Azure documentation on Github. Search the documentation and answer this question: What happens when I reach the spending limit?
 
